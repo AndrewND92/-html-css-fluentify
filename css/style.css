@@ -5,13 +5,20 @@
 }
 header{
   background-color: #1e3f62;
+  height: 400px;
+}
+a {
+  color: white;
+  text-decoration: none;
 }
 .centro{
   width: 85%;
   margin: 0 auto;
 }
+/* SEZIONE NAV BAR  */
 #nav_bar{
   color: white;
+  text-align: center;
 }
 #logo{
   display: inline-block;
@@ -23,13 +30,13 @@ header{
 }
 #li{
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 15px;
   font-size: 20px;
 }
 #login{
   display: inline-block;
   font-size: 20px;
-  margin-left: 40px;
+  margin-left: 150px;
 }
 #button_log {
   margin-left: 20px;
@@ -39,4 +46,8 @@ header{
   margin-left: 20px;
   background-color: #3cb91d;
   color: white}
+}
+/* SEZIONE NAV BAR fine */
+h2 {
+  color: white;
 }
