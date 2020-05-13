@@ -3,12 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+header{
+  background-color: #1e3f62;
+}
 .centro{
-  width: 80%;
+  width: 85%;
   margin: 0 auto;
 }
-
+#nav_bar{
+  color: white;
+}
 #logo{
   display: inline-block;
   font-size: 50px;
@@ -26,4 +30,13 @@
   display: inline-block;
   font-size: 20px;
   margin-left: 40px;
+}
+#button_log {
+  margin-left: 20px;
+  background-color: #1e3169;
+  color: white}
+#button_strut{
+  margin-left: 20px;
+  background-color: #3cb91d;
+  color: white}
 }
