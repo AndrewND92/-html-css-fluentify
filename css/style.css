@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.centro{
+  width: 80%;
+  margin: 0 auto;
+}
+
+#logo{
+  display: inline-block;
+  font-size: 50px;
+  margin-right: 40px;
+}
+#ul{
+  display: inline-block;
+}
+#li{
+  display: inline-block;
+  margin: 0 20px;
+  font-size: 20px;
+}
+#login{
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 40px;
+}
